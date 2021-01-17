@@ -1,0 +1,77 @@
+{
+  "info": [
+    {
+      "id": 1,
+      "symbol": "BTC",
+      "price": "18713.24",
+      "title": "Bitcoin",
+      "content": "The world’s first cryptocurrency, Bitcoin is stored and exchanged securely on the internet through a digital ledger known as a blockchain. Bitcoins are divisible into smaller units known as satoshis — each satoshi is worth 0.00000001 bitcoin.",
+      "links": [
+        { "url": "/", "title": "Official website" },
+        { "url": "/", "title": "Whitepaper" }
+      ]
+    },
+    {
+      "id": 2,
+      "symbol": "ETH",
+      "price": "512.56",
+      "title": "Ethereum",
+      "content": "Ethereum is both a cryptocurrency and a decentralized computing platform. Developers can use the platform to create decentralized applications and issue new crypto assets, known as Ethereum tokens.",
+      "links": [
+        { "url": "/", "title": "Official website" },
+        { "url": "/", "title": "Whitepaper" }
+      ]
+    },
+    {
+      "id": 3,
+      "symbol": "XRP",
+      "price": "0.32",
+      "title": "XRP",
+      "content": "XRP is the cryptocurrency used by the Ripple payment network. Built for enterprise use, XRP aims to be a fast, cost-efficient cryptocurrency for cross-border payments.",
+      "links": [
+        { "url": "/", "title": "Official website" },
+        { "url": "/", "title": "Whitepaper" }
+      ]
+    },
+    {
+      "id": 4,
+      "symbol": "LINK",
+      "price": "14.29",
+      "title": "Chainlink",
+      "content": "Chainlink (LINK) is an Ethereum token that powers the Chainlink decentralized oracle network. This network allows smart contracts on Ethereum to securely connect to external data sources, APIs, and payment systems.",
+      "links": [
+        { "url": "/", "title": "Official website" },
+        { "url": "/", "title": "Whitepaper" }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "id": 1,
+      "title": "As Bitcoin Surges 15%, Here's What Wall Street's Saying About The Cryptocurrency's Meteoric Resurgence",
+      "author": "Forbes",
+      "formattedDate": "4 hours ago",
+      "summary": "Not everyone's a fan, but some big investors see real potential in bitcoin's role in their portfolios.",
+      "url": "/",
+      "image": "https://picsum.photos/id/237/150/150"
+    },
+    {
+      "id": 2,
+      "title": "JP Morgan's Jamie Dimon: Bitcoin Still 'Not My Cup of Tea'",
+      "author": "Decrypt",
+      "formattedDate": "7 hours ago",
+      "summary": "At a remote New York Times summit, JPMorgan Chase CEO Jamie Dimon said he’s still not interested in Bitcoin.",
+      "url": "/",
+      "image": "https://picsum.photos/id/238/150/150"
+    },
+    {
+      "id": 3,
+      "title": "Novogratz Says Bitcoin is Digital Gold, Not a Currency for Now",
+      "author": "Bloomberg",
+      "formattedDate": "Oct 24",
+      "summary": "Billionaire investor Mike Novogratz is doubling down on a call Bitcoin serves as digital gold.",
+      "url": "/",
+      "image": "https://picsum.photos/id/239/150/150"
+    }
+  ]
+}
